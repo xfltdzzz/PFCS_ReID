@@ -2,7 +2,6 @@ from setuptools import setup, find_packages
 
 
 setup(name='PFCS',
-      version='1.0.0',
       description='Part-based Feature Complementary Denoising for Unsupervised Person Re-identification',
       author='Tian qing, Wang bin',
       install_requires=[
