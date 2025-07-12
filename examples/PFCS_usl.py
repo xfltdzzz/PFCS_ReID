@@ -8,7 +8,6 @@ import sys
 import collections
 import time
 from datetime import timedelta
-import sys
 import os
 from sklearn.cluster import DBSCAN
 from torch.distributions.multivariate_normal import MultivariateNormal
